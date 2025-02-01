@@ -5,7 +5,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Directly set the SECRET_KEY here
-SECRET_KEY = '9HB97fFiiw-ZIgkPybgEDDPIjq0LZ0FKF6tmKyWI7fk'  # Replace with your actual secret key
+SECRET_KEY = '***'  # Replace with your actual secret key
 
 # Debugging settings
 DEBUG = False  # Set to False in production or True in development
